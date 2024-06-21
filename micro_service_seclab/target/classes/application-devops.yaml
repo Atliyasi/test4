@@ -1,0 +1,11 @@
+spring:
+  neo4j:
+    pool:
+      idle-time-before-connection-test: true
+  password: qwertyuiopasdfghjklzxcvbnm123456
+
+test:
+  password: 12345611111
+
+test1:
+  password: qwertyuiopasdfghjklzxcvbnm123456qwertyuiopasdfghjklzxcvbnm123456qwertyuiopasdfghjklzxcvbnm123456
